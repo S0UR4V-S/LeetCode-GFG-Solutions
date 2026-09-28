@@ -3,7 +3,7 @@
 Track your progress on the Grind 100 coding interview preparation list.
 
 ## Progress
-- **Completed:** 1 / 100 (1.0%)
+- **Completed:** 2 / 100 (2.0%)
 
 ---
 
@@ -19,7 +19,7 @@ Track your progress on the Grind 100 coding interview preparation list.
 - [ ] Next Permutation
 - [ ] Trapping Rain Water
 - [ ] Find the Duplicate Number
-- [ ] Majority Element
+- [x] [Majority Element](./Java/Easy/169. Majority Element/)
 - [ ] Find All Numbers Disappeared in an Array
 
 ### 📂 Subarray & Sliding Window
