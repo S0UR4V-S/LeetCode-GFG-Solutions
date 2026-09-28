@@ -33,14 +33,14 @@ Track your progress on the Striver's SDE Sheet top interview problems.
 - [ ] Longest Substring Without Repeating Characters
 
 ### 📂 Linked List
-- [x] [Reverse Linked List](./Java/Easy/206. Reverse Linked List/)
+- [ ] Reverse Linked List
 - [ ] Middle of the Linked List
 - [x] [Merge Two Sorted Lists](./Java/Easy/21. Merge Two Sorted Lists/)
 - [ ] Remove Nth Node From End of List
 - [x] [Add Two Numbers](./Java/Medium/2. Add Two Numbers/)
 - [ ] Delete Node in a Linked List
 - [ ] Intersection of Two Linked Lists
-- [ ] Linked List Cycle
+- [x] [Linked List Cycle](./Java/Easy/141. Linked List Cycle/)
 - [ ] Reverse Nodes in k-Group
 - [ ] Palindrome Linked List
 - [ ] LRU Cache
