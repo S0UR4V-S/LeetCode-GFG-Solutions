@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 8 / 238 (3.4%)
+- **Completed:** 9 / 238 (3.8%)
 
 ---
 
@@ -76,7 +76,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] Missing Number
 - [ ] Find Integer Added to Array
 - [ ] Minimum Operations to Make Array Zero
-- [ ] Concatenation of Array
+- [x] [Concatenation of Array](./Java/Easy/1929. Concatenation of Array/)
 
 ### 📂 MODULE  3.3: INPLACE ARRAY MODIFICATION
 - [ ] Move Zeroes
