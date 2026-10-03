@@ -8,8 +8,8 @@ class Solution {
             max=nums[i];
             hm.put(nums[i],hm.getOrDefault(nums[i],0)+1);
         }
-        // if(max<1)
-        //     return 1;
+        if(max<1)
+            return 1;
         
 
 
